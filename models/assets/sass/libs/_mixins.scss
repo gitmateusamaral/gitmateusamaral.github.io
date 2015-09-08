@@ -1,3 +1,5 @@
+// skel-baseline v3.0.0-dev | (c) n33 | skel.io | MIT licensed
+
 /// Makes an element's :before pseudoelement a FontAwesome icon.
 /// @param {string} $content Optional content value to use.
 @mixin icon($content: false) {
