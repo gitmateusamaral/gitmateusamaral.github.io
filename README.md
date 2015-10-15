@@ -12,4 +12,4 @@ Site feito por Mateus Amaral e "HTML5 UP"(como um framework) utilizando HTML5 e 
 
 Nesse Site você pode ver meus modelos, meus programas e meus jogos feitos em diferentes programas e engines.
 
-![My Logo](http://imgur.com/S7dFZjw)
+![My Logo](http://i.imgur.com/S7dFZjw.png)
