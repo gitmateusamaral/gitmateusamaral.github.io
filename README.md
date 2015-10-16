@@ -1,12 +1,12 @@
 # [My WebSite] (http://gitmateusamaral.github.io/)
-###English:
+###English
 _________
 Site made by Mateus Amaral and "HTML5 UP"(as a framework) using HTML5 and CSS.
 
 In this site you can see my models, my programs and my games made on different programs and engines.
 
 
-###Português:
+###Português
 _________
 Site feito por Mateus Amaral e "HTML5 UP"(como um framework) utilizando HTML5 e CSS.
 
