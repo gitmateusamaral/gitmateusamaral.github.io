@@ -3084,6 +3084,13 @@
 			margin: 2em 0 0 0;
 			padding: 0;
 		}
+		
+		#footer .Email {
+			font-size: 0.8em;
+			list-style: none;
+			margin: 2em 0 0 0;
+			padding: 0;
+		}
 
 			#footer .copyright li {
 				border-left: solid 1px;
