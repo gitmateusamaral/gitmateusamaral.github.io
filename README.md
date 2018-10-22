@@ -1,12 +1,12 @@
-# [My WebSite]  (http://mateusamaral.me/)
-###English:
+# [My Website](http://mateusamaral.me/)
+### English:
 _________
 Site made by Mateus Amaral and "HTML5 UP" using HTML5 and CSS.
 
 In this site you can see my models, my programs and my games made on different programs and engines.
 
 
-###Português:
+### Português:
 _________
 Site feito por Mateus Amaral e "HTML5 UP" utilizando HTML5 e CSS.
 
