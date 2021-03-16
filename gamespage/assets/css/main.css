@@ -2798,7 +2798,7 @@
 
 	#header {
 		padding: 9em 0 9em 0 ;
-		background-color: #009688;
+		background-color: #099688;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
 		/*background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);*/
@@ -2985,7 +2985,7 @@
 
 	#footer {
 		padding: 6em 0 6em 0 ;
-		background-color: #009688;
+		background-color: #099688;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
 		/*background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(45deg, #4361c2, #4fa49a 50%, #9dc66b 95%);*/
